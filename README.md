@@ -1,6 +1,6 @@
 # 💸 Remix Expense Tracker
 
-A modern expense management web application built with [Remix](https://remix.run/), Vite, and TailwindCSS. Track and analyze your personal or team expenses with ease.
+A modern expense management web application built with [Remix](https://remix.run/), Vite. Track and analyze your personal or team expenses with ease. The project is deployed on notifly. Mongodb along with prisma for backend functionalities.
 
 ## 🚀 Features
 
