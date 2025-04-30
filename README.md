@@ -1,3 +1,29 @@
+# 💸 Remix Expense Tracker
+
+A modern expense management web application built with [Remix](https://remix.run/), Vite, and TailwindCSS. Track and analyze your personal or team expenses with ease.
+
+## 🚀 Features
+
+- 💰 Add, edit, and delete expenses
+- 📊 Visual analytics and spending insights
+- 🔐 Authentication (Login / Signup)
+- 🧾 Expense limits and user roles (Basic vs Pro)
+- 💾 Persistent storage using Prisma
+- ☁️ Deployable to Netlify
+
+## 🖼️ Preview
+
+> _Add a screenshot here if available_
+
+## 📦 Tech Stack
+
+- [Remix](https://remix.run/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Prisma](https://www.prisma.io/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Netlify](https://www.netlify.com/)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
