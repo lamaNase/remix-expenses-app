@@ -11,9 +11,10 @@ A modern expense management web application built with [Remix](https://remix.run
 - 💾 Persistent storage using Prisma
 - ☁️ Deployable to Netlify
 
-## 🖼️ Preview
+## 🌐 Live Demo
 
-> _Add a screenshot here if available_
+[Click here to view the deployed app](https://roaring-brigadeiros-185a36.netlify.app/)
+
 
 ## 📦 Tech Stack
 
